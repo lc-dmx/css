@@ -1,0 +1,103 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+.oval{
+	width: 200px;
+	height: 100px;
+	margin: 50px;
+	float: left;
+	position: relative;
+	background: #e9337c;
+	border-radius: 100px / 50px;
+}
+
+.triangle1 {
+    	width: 0;
+    	height: 0;
+	margin: 50px;
+	float: left;
+	position: relative;
+   	border-bottom: 100px solid #fcf921;
+    	border-left: 50px solid transparent;
+    	border-right: 50px solid transparent;
+} 
+
+.triangle2 {
+    	width: 0;
+    	height: 0;
+	margin: 50px;
+	float: left;
+	position: relative;
+   	border-top: 100px solid #20a3bf;
+    	border-left: 50px solid transparent;
+    	border-right: 50px solid transparent;
+} 
+
+.triangle3 {
+    	width: 0;
+    	height: 0;
+	margin: 50px;
+	float: left;
+	position: relative;
+ 	border-top: 50px solid transparent;
+    	border-right: 100px solid #6bbf20;
+    	border-bottom: 50px solid transparent;
+} 
+
+.diamond {
+	width: 100px;
+	height: 100px;
+	background: #1eff00;
+	position: relative;
+	left: 150px;
+	top: 250px;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+    	transform: rotate(-45deg);
+
+	-webkit-transform-origin: 0 100%;
+	-moz-transform-origin: 0 100%;
+	-ms-transform-origin: 0 100%;
+	-o-transform-origin: 0 100%;
+    	transform-origin: 0 100%;
+}
+
+.trapezium {
+    	height: 0;
+        	width: 100px;
+	left: 300px;
+	top: 150px;
+    	position: relative;
+    	border-bottom: 100px solid #ec3504;
+    	border-left: 50px solid transparent;
+    	border-right: 50px solid transparent;
+} 
+
+.parallelogram {
+    	width: 150px;
+    	height: 100px;
+    	left: 550px;
+	top: 50px;
+    	position: relative;
+    	background: #8734f7;
+	-webkit-transform: skew(30deg);
+	-moz-transform: skew(30deg);
+	-o-transform: skew(30deg);
+    	transform: skew(30deg);
+}  
+
+.egg{
+	width: 140px;
+	height: 200px;
+	left: 80px;
+	top: 100px;
+    	position: relative;
+	background: #ffc000;
+	display: block;
+	border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+}

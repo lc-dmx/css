@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	padding: 50px;
+}
+
+.search{
+	position: relative;
+}
+
+.search:before{
+	content:"";
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	border: 1px solid #666;
+	border-radius: 100%;
+	box-shadow: 1px 1px 30px rgba(0,0,0,0.3) inset;
+}
+
+.search:after{
+	content:"";
+	position: absolute;
+	width: 80px;
+	height: 15px;
+	background: #666;
+	border-radius: 5px 0 0 5px;
+
+ 	transform: rotate(210deg);
+ 	-webkit-transform: rotate(210deg);
+   	-moz-transform: rotate(210deg);
+   	-ms-transform: rotate(210deg);
+  	-o-transform: rotate(210deg);
+}
+
+.search:before {
+    top: 0;
+    left: 0;
+}
+.search:after {
+    left: 78px;
+    top:83px;
+}

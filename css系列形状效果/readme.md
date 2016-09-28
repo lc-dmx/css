@@ -1,0 +1,9 @@
+主要效果如下：
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/comment_bubble.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/geometry.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/heart.gif)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/hexagon.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/infinity.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/search.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/sixStar.jpg)
+![](https://github.com/lc-dmx/css/blob/master/css%E7%B3%BB%E5%88%97%E5%BD%A2%E7%8A%B6%E6%95%88%E6%9E%9C/star.jpg)
